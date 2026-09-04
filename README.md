@@ -1,34 +1,30 @@
 # digital-experiments
 
-Curiosity-driven digital experiments — small AI tools, automation scripts, and creative coding prototypes.
+好奇心驱动的数字实验 — small AI tools、automation、creative coding prototypes。
 
-## Why this exists
+## 为什么做这个 / Why
 
-Not every idea needs to be a product. Some are just questions: "what if I tried X?" or "how would Y work?" This repo is where those questions get built, quickly and without ceremony.
+不是每个想法都要变成产品。有些只是个问题："如果试 X 会怎样？" 这个 repo 就是那些问题被快速、不计较地 build 出来的地方。
 
-## What's inside
+## 里面有什么 / What's inside
 
-- **Small AI tools** — single-purpose scripts that solve one creative problem
-- **Automation experiments** — connecting APIs, scraping, batching repetitive work
-- **Creative coding prototypes** — generative visuals, interactive experiments, digital art
-- **Digital prototypes** — rough but functional ideas for digital products
+- **Small AI tools** — 解决单一创意问题的单用途脚本
+- **Automation 实验** — 串 API、抓数据、批量重复劳动
+- **Creative coding** — 生成视觉、交互实验、数字艺术
+- **Digital prototypes** — 粗糙但能跑的数字产品点子
 
-## Approach
+## 思路 / Approach
 
-Ship the experiment. Don't polish the prototype. The goal is learning, not perfection.
+Ship the experiment. Don't polish the prototype. 目标是学到东西，不是完美。
 
 ## Tech
 
 - Python
 - JavaScript
-- Various APIs and automation tools
+- 各种 API 与自动化工具
 
-## Future improvements
+## 下一步 / Next
 
-- Experiment archive and indexing
-- Shared patterns across experiments
-- Open-sourcing reusable components
-
----
-
-*Curiosity-driven building. No business plan required.*
+- 实验归档与索引
+- 跨实验的共享模式
+- 把可复用组件开源
