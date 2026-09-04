@@ -1,30 +1,30 @@
 # digital-experiments
 
-好奇心驱动的数字实验 — small AI tools、automation、creative coding prototypes。
+好奇心驱动的数字小实验：AI 小工具、自动化脚本、创意 coding。
 
-## 为什么做这个 / Why
+## 为什么有这个仓库
 
-不是每个想法都要变成产品。有些只是个问题："如果试 X 会怎样？" 这个 repo 就是那些问题被快速、不计较地 build 出来的地方。
+不是每个念头都得当产品。有些只是「要是试试 X 会怎样」。这个仓库就是把这些念头快速做出来、不讲究排场的地方。
 
-## 里面有什么 / What's inside
+## 里面有什么
 
-- **Small AI tools** — 解决单一创意问题的单用途脚本
-- **Automation 实验** — 串 API、抓数据、批量重复劳动
-- **Creative coding** — 生成视觉、交互实验、数字艺术
-- **Digital prototypes** — 粗糙但能跑的数字产品点子
+- **AI 小工具**：解决一个具体创意问题的小脚本
+- **自动化实验**：接 API、抓数据、把重复活批量掉
+- **创意 coding**：生成式视觉、交互小实验、数字艺术
+- **数字原型**：粗糙但能跑的产品点子
 
-## 思路 / Approach
+## 思路
 
-Ship the experiment. Don't polish the prototype. 目标是学到东西，不是完美。
+把实验发出来，别把原型磨完美。目标是学，不是交货。
 
-## Tech
+## 用到什么
 
-- Python
-- JavaScript
-- 各种 API 与自动化工具
+Python · JavaScript · 各种 API 和自动化工具
 
-## 下一步 / Next
+## 还在做
 
-- 实验归档与索引
-- 跨实验的共享模式
-- 把可复用组件开源
+- 实验归档和索引
+- 跨实验的共用套路
+- 把能复用的零件开源出来
+
+*好奇心驱动地做，不需要商业计划。*
