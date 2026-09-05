@@ -1,30 +1,48 @@
 # digital-experiments
 
-好奇心驱动的数字小实验：AI 小工具、自动化脚本、创意 coding。
+**A log of curiosity.**
 
-## 为什么有这个仓库
+Small AI tools, automation experiments, and creative prototypes — built to learn, documented to share.
 
-不是每个念头都得当产品。有些只是「要是试试 X 会怎样」。这个仓库就是把这些念头快速做出来、不讲究排场的地方。
+---
 
-## 里面有什么
+## Why this exists
 
-- **AI 小工具**：解决一个具体创意问题的小脚本
-- **自动化实验**：接 API、抓数据、把重复活批量掉
-- **创意 coding**：生成式视觉、交互小实验、数字艺术
-- **数字原型**：粗糙但能跑的产品点子
+Experiments usually die in private folders.
 
-## 思路
+This repo is the public version: what I tried, what broke, what surprised me. The point is not polished products — it's keeping a visible record of how the thinking evolves.
 
-把实验发出来，别把原型磨完美。目标是学，不是交货。
+## What's inside
 
-## 用到什么
+| Path | Contents |
+|---|---|
+| `experiments/` | Numbered experiment logs — hypothesis → build → result |
+| `prototypes/` | Small working things, kept minimal |
+| `notes/` | Findings worth keeping after the experiment ends |
 
-Python · JavaScript · 各种 API 和自动化工具
+## Format
 
-## 还在做
+Every experiment follows the same four-part log:
 
-- 实验归档和索引
-- 跨实验的共用套路
-- 把能复用的零件开源出来
+```text
+Hypothesis  — what I expected to happen
+Build       — what I actually made, with tools used
+Result      — what happened, including the boring parts
+Next        — what this changed about the next attempt
+```
 
-*好奇心驱动地做，不需要商业计划。*
+## Experiments
+
+| # | Title | Status |
+|---|---|---|
+| 001 | [Experiment template](experiments/001-experiment-template.md) | Template |
+
+## Roadmap
+
+- [ ] First real experiment log
+- [ ] Automation experiment with AI agents
+- [ ] Creative coding prototype with generative output
+
+---
+
+*Part of the K5LY studio — see the full picture on the [profile](https://github.com/K5LY).*
