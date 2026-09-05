@@ -7,7 +7,7 @@
 
 ## Hypothesis
 
-What I expected to happen, in one or two sentences — written *before* the build.
+What I expected to happen, in one or two sentences. Write this *before* the build.
 
 > Example: "An AI agent given only a brand-voice document can produce social captions indistinguishable from human drafts."
 
@@ -15,13 +15,13 @@ What I expected to happen, in one or two sentences — written *before* the buil
 
 What I actually made. Keep it reproducible: tools, inputs, the steps in order. Link or paste the smallest version that shows the idea.
 
-- Step 1 —
-- Step 2 —
-- Step 3 —
+- Step 1:
+- Step 2:
+- Step 3:
 
 ## Result
 
-What happened — including the parts that didn't work. Boring failures are the most useful entries here.
+What happened, including the parts that didn't work. Boring failures are the most useful entries here.
 
 - What worked:
 - What didn't:
@@ -31,4 +31,4 @@ What happened — including the parts that didn't work. Boring failures are the 
 
 What this changed about the next attempt. One experiment should always load the next one.
 
-- [ ] Follow-up idea —
+- [ ] Follow-up idea:
